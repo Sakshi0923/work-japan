@@ -1,0 +1,490 @@
+.icon {
+  position: absolute;
+  top: 334px;
+  left: 0;
+  border-radius: 20px;
+  width: 2335px;
+  height: 1160px;
+  object-fit: cover;
+}
+.jobListingChild {
+  position: absolute;
+  top: 1637px;
+  left: 189px;
+  filter: blur(224px);
+  border-radius: 50%;
+  background-color: #3ea5d0;
+  width: 798px;
+  height: 786px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 86.28%;
+  width: 47.15%;
+  top: 0;
+  right: 52.85%;
+  bottom: 13.72%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon,
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4,
+.groupIcon5 {
+  position: absolute;
+  height: 72.26%;
+  width: 36.4%;
+  top: 16.02%;
+  right: 59.03%;
+  bottom: 11.72%;
+  left: 4.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4,
+.groupIcon5 {
+  height: 60.63%;
+  width: 18.02%;
+  top: 12.81%;
+  right: 59.5%;
+  bottom: 26.57%;
+  left: 22.48%;
+}
+.groupIcon2,
+.groupIcon3,
+.groupIcon4,
+.groupIcon5 {
+  height: 39.22%;
+  width: 13.02%;
+  top: 31.99%;
+  right: 58.58%;
+  bottom: 28.79%;
+  left: 28.4%;
+}
+.groupIcon3,
+.groupIcon4,
+.groupIcon5 {
+  height: 11.36%;
+  width: 4.32%;
+  top: 1.48%;
+  right: 56.88%;
+  bottom: 87.16%;
+  left: 38.81%;
+}
+.groupIcon4,
+.groupIcon5 {
+  height: 8.33%;
+  width: 3.16%;
+  top: 62.07%;
+  right: 54.2%;
+  bottom: 29.6%;
+  left: 42.64%;
+}
+.groupIcon5 {
+  height: 9.27%;
+  width: 3.52%;
+  top: 1.81%;
+  right: 89.72%;
+  bottom: 88.92%;
+  left: 6.76%;
+}
+.grabYourJob {
+  margin-bottom: 0;
+}
+.grabYourJobFromJobHunt {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-61xl);
+}
+.blankLine {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.grabYourJobContainer {
+  position: absolute;
+  top: 175px;
+  left: 1069.9px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  width: 903px;
+  height: 609px;
+}
+.needALogo {
+  position: absolute;
+  height: 40.64%;
+  width: 94.31%;
+  top: 0;
+  right: 5.69%;
+  bottom: 59.36%;
+  left: 0;
+}
+.groupIcon6,
+.vectorIcon1 {
+  position: absolute;
+  height: 0.23%;
+  width: 38.61%;
+  top: 35.8%;
+  right: 58.1%;
+  bottom: 63.97%;
+  left: 3.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon6 {
+  height: 4.17%;
+  width: 0.77%;
+  top: 13.02%;
+  right: 59.3%;
+  bottom: 82.81%;
+  left: 39.92%;
+}
+.joinUsLogoChild {
+  position: absolute;
+  top: 1060px;
+  left: 1176.9px;
+  filter: blur(224px);
+  border-radius: 50%;
+  background-color: #2d82c8;
+  width: 915px;
+  height: 869px;
+  mix-blend-mode: luminosity;
+}
+.joinUsLogo {
+  position: absolute;
+  height: 53.46%;
+  width: 89.59%;
+  top: 46.65%;
+  right: 1.24%;
+  bottom: -0.11%;
+  left: 9.17%;
+}
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  height: 50.68%;
+  width: 34.24%;
+  top: 20.15%;
+  right: 21.04%;
+  bottom: 29.16%;
+  left: 44.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  height: 21.98%;
+  width: 24.82%;
+  top: 29.52%;
+  right: 23.53%;
+  bottom: 48.5%;
+  left: 51.65%;
+}
+.vectorIcon4 {
+  height: 50.77%;
+  width: 34.23%;
+  top: 20.07%;
+  right: 21.05%;
+  bottom: 29.16%;
+  left: 44.72%;
+  opacity: 0.35;
+}
+.vectorIcon5 {
+  height: 64.94%;
+  width: 29.52%;
+  top: 35.06%;
+  right: -0.2%;
+  bottom: 0;
+  left: 70.69%;
+}
+.vectorIcon10,
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon6 {
+  height: 55.63%;
+  width: 18.85%;
+  top: 44.3%;
+  right: 5.83%;
+  bottom: 0.07%;
+  left: 75.33%;
+  opacity: 0.35;
+}
+.vectorIcon10,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  height: 29.69%;
+  width: 12.5%;
+  top: 0;
+  right: 8.37%;
+  bottom: 70.31%;
+  left: 79.12%;
+}
+.vectorIcon10,
+.vectorIcon8,
+.vectorIcon9 {
+  height: 8.02%;
+  width: 10.66%;
+  top: 4.26%;
+  right: 8.97%;
+  bottom: 87.72%;
+  left: 80.37%;
+}
+.vectorIcon10,
+.vectorIcon9 {
+  height: 27.77%;
+  width: 10.18%;
+  top: 10.79%;
+  right: 9.72%;
+  bottom: 61.44%;
+  left: 80.1%;
+}
+.vectorIcon10 {
+  height: 8.28%;
+  width: 3.03%;
+  top: 30.23%;
+  right: 12.74%;
+  bottom: 61.5%;
+  left: 84.23%;
+  opacity: 0.1;
+}
+.vectorIcon11 {
+  height: 8.81%;
+  width: 8.27%;
+  top: 14.14%;
+  right: 10.98%;
+  bottom: 77.05%;
+  left: 80.76%;
+}
+.vectorIcon11,
+.vectorIcon12,
+.vectorIcon13,
+.vectorIcon14 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon12 {
+  height: 2.57%;
+  width: 3.97%;
+  top: 18.38%;
+  right: 10.4%;
+  bottom: 79.06%;
+  left: 85.63%;
+  opacity: 0.05;
+}
+.vectorIcon13,
+.vectorIcon14 {
+  height: 1.29%;
+  width: 0.65%;
+  top: 17.11%;
+  right: 13.8%;
+  bottom: 81.6%;
+  left: 85.55%;
+}
+.vectorIcon14 {
+  top: 16.68%;
+  right: 11%;
+  bottom: 82.03%;
+  left: 88.35%;
+}
+.vectorIcon15 {
+  height: 2.84%;
+  width: 2.65%;
+  top: 23.77%;
+  right: 11.12%;
+  bottom: 73.39%;
+  left: 86.23%;
+}
+.groupIcon7,
+.groupIcon8,
+.groupIcon9,
+.vectorIcon15,
+.vectorIcon16,
+.vectorIcon17,
+.vectorIcon18 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.vectorIcon16 {
+  height: 0.99%;
+  width: 1.34%;
+  top: 26.62%;
+  right: 11.6%;
+  bottom: 72.39%;
+  left: 87.05%;
+  opacity: 0.05;
+}
+.groupIcon7,
+.groupIcon8,
+.groupIcon9,
+.vectorIcon17,
+.vectorIcon18 {
+  height: 62.44%;
+  width: 6.78%;
+  top: 37.4%;
+  right: 12.46%;
+  bottom: 0.16%;
+  left: 80.76%;
+}
+.groupIcon7,
+.groupIcon8,
+.groupIcon9,
+.vectorIcon18 {
+  height: 8.03%;
+  width: 3.89%;
+  top: 34.1%;
+  right: 10.16%;
+  bottom: 57.87%;
+  left: 85.95%;
+}
+.groupIcon8,
+.groupIcon9,
+.vectorIcon18 {
+  height: 8.46%;
+  width: 3.29%;
+  top: 33.61%;
+  right: 17.51%;
+  bottom: 57.93%;
+  left: 79.2%;
+}
+.groupIcon9,
+.vectorIcon18 {
+  height: 50.65%;
+  width: 20.72%;
+  top: 25.36%;
+  right: 5.55%;
+  bottom: 23.99%;
+  left: 73.73%;
+}
+.groupIcon9 {
+  height: 23.37%;
+  width: 34.05%;
+  top: 7.52%;
+  right: 24.03%;
+  bottom: 69.11%;
+  left: 41.92%;
+}
+.joinUsOn {
+  position: absolute;
+  top: 233.5px;
+  left: 6.1px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  width: 674px;
+  transform: rotate(1.1deg);
+  transform-origin: 0 0;
+}
+.joinUsLogo1 {
+  position: absolute;
+  height: 19.32%;
+  width: 75.49%;
+  top: 76.39%;
+  right: 4.1%;
+  bottom: 4.29%;
+  left: 20.41%;
+}
+.aboutJapan,
+.contactUs,
+.jobListing1 {
+  position: absolute;
+  letter-spacing: 0.1em;
+}
+.jobListing1 {
+  top: 136px;
+  left: 878px;
+  text-decoration: underline;
+}
+.aboutJapan,
+.contactUs {
+  top: 99px;
+  left: 1153px;
+  display: flex;
+  align-items: center;
+  width: 279px;
+  height: 122px;
+  cursor: pointer;
+}
+.contactUs {
+  top: 129px;
+  left: 1454px;
+  width: 308px;
+  height: 61px;
+}
+.logoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-151xl);
+  width: 272px;
+  height: 252px;
+  object-fit: cover;
+}
+.home {
+  top: 136px;
+  left: 705px;
+  letter-spacing: 0.1em;
+  color: var(--color-gray-100);
+  cursor: pointer;
+}
+.home,
+.icon1,
+.navbar {
+  position: absolute;
+}
+.icon1 {
+  top: 121px;
+  left: 1950px;
+  border-radius: var(--br-81xl);
+  width: 75px;
+  height: 77px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.navbar {
+  top: 3px;
+  left: 5px;
+  width: 2025px;
+  height: 252px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+}
+.jobListing {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  height: 3608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-quando);
+}

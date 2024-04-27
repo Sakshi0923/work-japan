@@ -1,0 +1,168 @@
+.footerCultureChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 2335px;
+  height: 865.2px;
+}
+.contactUs {
+  margin: 0;
+}
+.contactUsEmailContainer1 {
+  width: 100%;
+}
+.contactUsEmailContainer {
+  position: absolute;
+  top: 82.3px;
+  left: 122px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 2102px;
+  height: 676.5px;
+  cursor: pointer;
+}
+.footerCulture {
+  position: absolute;
+  top: 2742.8px;
+  left: 2px;
+  width: 2335px;
+  height: 865.2px;
+  font-size: var(--font-size-31xl);
+}
+.jobListing {
+  top: 139.1px;
+  left: 906px;
+  width: 228.6px;
+  height: 48.2px;
+}
+.aboutJapan,
+.contactUs1,
+.home,
+.jobListing {
+  position: absolute;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.aboutJapan {
+  top: 102px;
+  left: 1184.1px;
+  text-decoration: underline;
+  width: 282.2px;
+  height: 122.5px;
+}
+.contactUs1,
+.home {
+  top: 132.1px;
+  left: 1488.6px;
+  width: 311.5px;
+  height: 61.2px;
+}
+.home {
+  top: 139.1px;
+  left: 731px;
+  color: var(--color-gray-100);
+  width: 122.4px;
+  height: 48.2px;
+}
+.image2Icon {
+  position: absolute;
+  top: 133.1px;
+  left: 1975.1px;
+  border-radius: var(--br-81xl);
+  width: 75.9px;
+  height: 77.3px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.image5Icon {
+  border-radius: var(--br-151xl);
+  width: 272px;
+  height: 252px;
+  object-fit: cover;
+}
+.cultureIcon,
+.image5Icon,
+.navbarCulture {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.navbarCulture {
+  width: 2051px;
+  height: 252px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+}
+.cultureIcon {
+  width: 480px;
+  height: 480px;
+  object-fit: cover;
+}
+.culture1 {
+  position: absolute;
+  top: 544px;
+  left: 43px;
+  text-decoration: underline;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 393px;
+}
+.logoCulture {
+  position: absolute;
+  top: 398px;
+  left: 925px;
+  width: 480px;
+  height: 634px;
+  text-align: center;
+}
+.image8Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2335px;
+  height: 1491px;
+  object-fit: cover;
+  mix-blend-mode: linear-dodge;
+}
+.textboxCultureChild {
+  position: absolute;
+  top: 92px;
+  left: 65px;
+  background-color: var(--color-darkslategray);
+  width: 2189px;
+  height: 1322px;
+  mix-blend-mode: hard-light;
+}
+.japaneseCultureSeamlesslyContainer {
+  position: absolute;
+  top: 205px;
+  left: 145px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  width: 2057px;
+}
+.textboxCulture {
+  position: absolute;
+  top: 1137px;
+  left: 4px;
+  width: 2335px;
+  height: 1491px;
+}
+.culture {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  height: 3608px;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-white);
+  font-family: var(--font-lustria);
+}

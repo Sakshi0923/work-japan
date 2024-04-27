@@ -1,0 +1,145 @@
+.icon {
+  position: absolute;
+  top: -210px;
+  left: 1px;
+  width: 2334px;
+  height: 3201px;
+  object-fit: cover;
+}
+.headlineChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 2326.2px;
+  height: 216px;
+}
+.exploreJobOpportunities {
+  position: absolute;
+  top: 55px;
+  left: calc(50% - 567.7px);
+  letter-spacing: 0.1em;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  width: 1735.2px;
+}
+.headline {
+  position: absolute;
+  top: 772px;
+  left: 0;
+  width: 2335px;
+  height: 216px;
+}
+.jobListing {
+  position: absolute;
+  top: 136px;
+  left: 899px;
+  width: 248.2px;
+}
+.aboutJapan,
+.contactUs,
+.jobListing {
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.aboutJapan {
+  position: absolute;
+  top: 99px;
+  left: 1201px;
+  width: 306.4px;
+  height: 122px;
+}
+.contactUs {
+  top: 129px;
+  left: 1531.5px;
+  width: 338.2px;
+  height: 61px;
+}
+.contactUs,
+.home,
+.icon1 {
+  position: absolute;
+}
+.home {
+  top: 136px;
+  left: 709px;
+  text-decoration: underline;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 132.9px;
+}
+.icon1 {
+  top: 118px;
+  left: 1946.6px;
+  border-radius: var(--br-81xl);
+  width: 75px;
+  height: 70.1px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.logoIcon,
+.navbar {
+  position: absolute;
+  top: 0;
+  height: 252px;
+}
+.logoIcon {
+  left: 0;
+  border-radius: var(--br-151xl);
+  width: 272px;
+  object-fit: cover;
+}
+.navbar {
+  left: 1px;
+  width: 2021.6px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}
+.frontpageChild,
+.frontpageItem {
+  position: absolute;
+  top: 2060px;
+  left: -274px;
+  border-radius: 50%;
+  background-color: var(--color-midnightblue-100);
+  width: 1093px;
+  height: 989px;
+  mix-blend-mode: overlay;
+}
+.frontpageItem {
+  top: 988px;
+  left: 1355px;
+}
+.emailAbcgmailcom {
+  margin: 0;
+}
+.contactUsContainer {
+  position: absolute;
+  top: 3176px;
+  left: 252px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  color: var(--color-white);
+  width: 1232px;
+  height: 316px;
+  cursor: pointer;
+}
+.frontpage {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-midnightblue-200);
+  height: 3608px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-libre-bodoni);
+}

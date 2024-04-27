@@ -1,0 +1,164 @@
+.image3Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-151xl);
+  width: 272px;
+  height: 252px;
+  object-fit: cover;
+}
+.jobListing {
+  position: absolute;
+  top: 139px;
+  left: 900px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 228.6px;
+  cursor: pointer;
+}
+.aboutJapan1 {
+  top: 102px;
+  left: 1178.1px;
+  text-decoration: underline;
+  width: 282.2px;
+  height: 122px;
+}
+.aboutJapan1,
+.contactUs,
+.home {
+  position: absolute;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+}
+.contactUs {
+  top: 132px;
+  left: 1482.6px;
+  width: 311.5px;
+  height: 61px;
+  cursor: pointer;
+}
+.home {
+  top: 139px;
+  left: 725px;
+  color: var(--color-gray-100);
+  width: 122.4px;
+}
+.image2Icon {
+  position: absolute;
+  top: 133px;
+  left: 1969.1px;
+  border-radius: var(--br-81xl);
+  width: 75.9px;
+  height: 77px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2045px;
+  height: 252px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+}
+.aboutJapanIcon,
+.logosIcon {
+  position: absolute;
+  top: 331px;
+  left: 0;
+  width: 2335px;
+  height: 1284px;
+  object-fit: cover;
+}
+.logosIcon {
+  top: 1885px;
+  left: 228px;
+  width: 1880px;
+  height: 480px;
+}
+.food,
+.technology {
+  top: 0;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.technology {
+  position: absolute;
+  left: 1384px;
+  width: 424px;
+}
+.food {
+  left: 704px;
+  width: 393px;
+}
+.culture,
+.food,
+.text {
+  position: absolute;
+}
+.culture {
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 393px;
+}
+.text {
+  top: 2498px;
+  left: 264px;
+  width: 1808px;
+  height: 64px;
+  text-align: center;
+}
+.footerAboutjapanChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 2335px;
+  height: 862px;
+}
+.emailAbcgmailcom {
+  margin: 0;
+}
+.contactUsEmailContainer1 {
+  width: 100%;
+}
+.contactUsEmailContainer {
+  position: absolute;
+  top: 69px;
+  left: 118px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 2102px;
+  height: 674px;
+  cursor: pointer;
+}
+.footerAboutjapan {
+  position: absolute;
+  top: 2746px;
+  left: -3px;
+  width: 2335px;
+  height: 862px;
+}
+.aboutJapan {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-midnightblue-200);
+  height: 3608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-lustria);
+}

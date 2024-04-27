@@ -1,0 +1,176 @@
+.footerTechnologyChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 2335px;
+  height: 865.2px;
+}
+.contactUs {
+  margin: 0;
+}
+.contactUsEmailContainer1 {
+  width: 100%;
+}
+.contactUsEmailContainer {
+  position: absolute;
+  top: 115px;
+  left: 124px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 2102px;
+  height: 676.5px;
+}
+.footerTechnology {
+  position: absolute;
+  top: 2738px;
+  left: 8px;
+  width: 2335px;
+  height: 865.2px;
+  cursor: pointer;
+  font-size: var(--font-size-31xl);
+}
+.image11Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2343px;
+  height: 1419px;
+  object-fit: cover;
+}
+.textboxTechChild {
+  position: absolute;
+  top: 55px;
+  left: 73px;
+  background-color: var(--color-darkslategray);
+  width: 2189px;
+  height: 1322px;
+  mix-blend-mode: hard-light;
+}
+.japansCommitmentTo {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.japanIsRenownedContainer {
+  position: absolute;
+  top: 169px;
+  left: 155px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  width: 2057px;
+}
+.stIcon,
+.textboxTech {
+  position: absolute;
+  top: 1173px;
+  left: 0;
+  width: 2343px;
+  height: 1419px;
+}
+.stIcon {
+  top: 0;
+  left: 62px;
+  width: 480px;
+  height: 480px;
+  object-fit: cover;
+  mix-blend-mode: linear-dodge;
+}
+.logoTech,
+.technology {
+  position: absolute;
+  width: 610px;
+}
+.technology {
+  top: 552px;
+  left: 0;
+  text-decoration: underline;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logoTech {
+  top: 398px;
+  left: 863px;
+  height: 642px;
+  text-align: center;
+}
+.jobListing {
+  top: 139.1px;
+  left: 906px;
+  width: 228.6px;
+  height: 48.2px;
+}
+.aboutJapan,
+.contactUs1,
+.home,
+.jobListing {
+  position: absolute;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.aboutJapan {
+  top: 102px;
+  left: 1184.1px;
+  text-decoration: underline;
+  width: 282.2px;
+  height: 122.5px;
+}
+.contactUs1,
+.home {
+  top: 132.1px;
+  left: 1488.6px;
+  width: 311.5px;
+  height: 61.2px;
+}
+.home {
+  top: 139.1px;
+  left: 731px;
+  color: var(--color-gray-100);
+  width: 122.4px;
+  height: 48.2px;
+}
+.image2Icon {
+  position: absolute;
+  top: 133.1px;
+  left: 1975.1px;
+  border-radius: var(--br-81xl);
+  width: 75.9px;
+  height: 77.3px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.image9Icon,
+.navbarTech {
+  position: absolute;
+  left: 0;
+  height: 252px;
+}
+.image9Icon {
+  top: 0;
+  border-radius: var(--br-151xl);
+  width: 272px;
+  object-fit: cover;
+}
+.navbarTech {
+  top: 4px;
+  width: 2051px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lato);
+}
+.techonology {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  height: 3608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-white);
+  font-family: var(--font-lustria);
+}

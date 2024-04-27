@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lustria:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quando:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-libre-bodoni: "Libre Bodoni";
+  --font-lato: Lato;
+  --font-lustria: Lustria;
+  --font-quando: Quando;
+
+  /* font sizes */
+  --font-size-41xl: 60px;
+  --font-size-21xl: 40px;
+  --font-size-31xl: 50px;
+  --font-size-51xl: 70px;
+
+  /* Colors */
+  --color-midnightblue-100: #06054e;
+  --color-midnightblue-200: #010038;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: #fffdfd;
+  --color-gray-200: #001438;
+  --color-darkslategray: #1d2e4a;
+
+  /* Paddings */
+  --padding-61xl: 80px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-151xl: 170px;
+  --br-81xl: 100px;
+  --br-11xl: 30px;
+}

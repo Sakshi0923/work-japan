@@ -1,0 +1,267 @@
+.footerContactusChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 2335px;
+  height: 865.2px;
+}
+.emailAbcgmailcom {
+  margin: 0;
+}
+.contactUsEmailContainer1 {
+  width: 100%;
+}
+.contactUsEmailContainer {
+  position: absolute;
+  top: 115px;
+  left: 124px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 2102px;
+  height: 676.5px;
+}
+.footerContactus {
+  position: absolute;
+  top: 2743px;
+  left: 0;
+  width: 2335px;
+  height: 865.2px;
+  font-family: var(--font-lustria);
+}
+.jobListing {
+  position: absolute;
+  top: 139.1px;
+  left: 906px;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  width: 228.6px;
+  height: 48.2px;
+  cursor: pointer;
+}
+.aboutJapan {
+  top: 102px;
+  left: 1184.1px;
+  width: 282.2px;
+  height: 122.5px;
+  cursor: pointer;
+}
+.aboutJapan,
+.contactUs2,
+.home {
+  position: absolute;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+}
+.contactUs2 {
+  top: 132.1px;
+  left: 1488.6px;
+  text-decoration: underline;
+  width: 311.5px;
+  height: 61.2px;
+}
+.home {
+  top: 139.1px;
+  left: 731px;
+  color: var(--color-gray-100);
+  width: 122.4px;
+  height: 48.2px;
+  cursor: pointer;
+}
+.image2Icon {
+  position: absolute;
+  top: 133.1px;
+  left: 1975.1px;
+  border-radius: var(--br-81xl);
+  width: 75.9px;
+  height: 77.3px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.image9Icon,
+.navbarTech {
+  position: absolute;
+  left: 0;
+  height: 252px;
+}
+.image9Icon {
+  top: 0;
+  border-radius: var(--br-151xl);
+  width: 272px;
+  object-fit: cover;
+}
+.navbarTech {
+  top: 4px;
+  width: 2051px;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-21xl);
+}
+.image12Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  width: 1667.4px;
+  height: 1913px;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.feedbackboxChild {
+  position: absolute;
+  top: 3px;
+  left: 5px;
+  background-color: #adccff;
+  width: 1670px;
+  height: 1913px;
+  opacity: 0.5;
+  mix-blend-mode: soft-light;
+}
+.feedbackbox,
+.feedbacktextChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1675px;
+  height: 1916px;
+}
+.feedbacktextChild {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  width: 1460px;
+  height: 199px;
+}
+.feedback {
+  position: absolute;
+  top: 25px;
+  left: 52px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1339px;
+  height: 149px;
+}
+.feedbacktext {
+  position: absolute;
+  top: 73px;
+  left: 118px;
+  width: 1460px;
+  height: 199px;
+  font-size: var(--font-size-51xl);
+  color: var(--color-white);
+}
+.lastNameChild {
+  position: absolute;
+  top: 115px;
+  left: 59px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  width: 1022px;
+  height: 139px;
+}
+.lastName1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 416px;
+  height: 87px;
+}
+.lastName {
+  position: absolute;
+  top: 710px;
+  left: 143px;
+  width: 1081px;
+  height: 254px;
+}
+.descriptionChild {
+  position: absolute;
+  top: 115px;
+  left: 59px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  width: 1022px;
+  height: 444px;
+}
+.description,
+.firstNameChild {
+  position: absolute;
+  top: 991px;
+  left: 143px;
+  width: 1081px;
+  height: 559px;
+}
+.firstNameChild {
+  top: 121px;
+  left: 59px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  width: 1022px;
+  height: 139px;
+}
+.firstName {
+  position: absolute;
+  top: 410px;
+  left: 143px;
+  width: 1081px;
+  height: 260px;
+}
+.submitButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-200);
+  width: 697px;
+  height: 139px;
+}
+.submit {
+  position: absolute;
+  top: 18px;
+  left: 34px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 597px;
+  height: 97px;
+}
+.feedbackform,
+.submitButton {
+  position: absolute;
+  top: 1713px;
+  left: 594px;
+  width: 697px;
+  height: 139px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+}
+.feedbackform {
+  top: 483px;
+  left: 300px;
+  width: 1675px;
+  height: 1916px;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--color-black);
+}
+.contactUs {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-200);
+  height: 3608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-lato);
+}
